@@ -1,9 +1,29 @@
-### Salut 👋 Je suis Glory Masunda
+# 👋 Bienvenue sur mon GitHub
 
-🔧 Développeur C# passionné par l'informatique et les systèmes biométriques  
-📦 Expérience dans l'intégration de capteurs ZKTeco, développement WinForms + MySQL  
-🌐 Enthousiaste de réseaux sécurisés (VLAN, SSH, WiMax)  
-🎓 Graduat en Sciences Informatiques – UKV Boma  
-licencié en réseau informatique 
+## Je suis Glory Masunda 🇨🇩
 
-📫 Contact : glodymasunda@gmail.com
+🎓 Gradué en Sciences Informatiques à l’Université Kasa-Vubu (Boma)  
+🎓licencié en réseau informatique 
+🖥️ Développeur C# (WinForms) avec base de données MySQL  
+🧠 Passionné par la biométrie, les réseaux et la sécurité informatique  
+🔧 Expériences avec le capteur ZKTeco ZK9500, SDK ZKFPEngX, maintenance PC, configuration de VLAN, SSH, déploiement de réseau 
+
+---
+
+## 🔍 Mes compétences
+
+- 🔹 **Langages :** C#, SQL
+- 🔹 **Bases de données :** MySQL
+- 🔹 **Réseaux :** VLAN, SSH, Cisco, entreprise 
+- 🔹 **Développement :** Visual Studio, WinForms
+- 🔹 **Systèmes :** Windows, Linux (Ubuntu/Kali)
+- 🔹 **Maintenance :** Ordinateurs, imprimantes, OS
+- 🔹 **Autres outils :** XAMPP, Office, ActiveX SDK ZKTeco
+
+---
+
+## 📌 Contact
+
+📧 glodymasunda@gmail.com  
+🌍 Boma, RDC  
+🔗 [LinkedIn](https://www.linkedin.com/in/glory-masunda-b63b76368)
