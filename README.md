@@ -27,4 +27,4 @@
 📧 glodymasunda@gmail.com  
 🌍 Boma, RDC  
 🔗 [LinkedIn](https://www.linkedin.com/in/glory-masunda-b63b76368)
-@glorymasunda(youtube)
+🔗@glorymasunda(youtube)
