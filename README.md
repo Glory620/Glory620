@@ -14,7 +14,7 @@
 
 - 🔹 **Langages :** C#, SQL
 - 🔹 **Bases de données :** MySQL
-- 🔹 **Réseaux :** VLAN, SSH, Cisco, entreprise 
+- 🔹 **Réseaux :** VLAN, SSH, Cisco, entreprise, Mikrotik 
 - 🔹 **Développement :** Visual Studio, WinForms
 - 🔹 **Systèmes :** Windows, Linux (Ubuntu/Kali)
 - 🔹 **Maintenance :** Ordinateurs, imprimantes, OS
@@ -27,3 +27,4 @@
 📧 glodymasunda@gmail.com  
 🌍 Boma, RDC  
 🔗 [LinkedIn](https://www.linkedin.com/in/glory-masunda-b63b76368)
+@glorymasunda(youtube)
